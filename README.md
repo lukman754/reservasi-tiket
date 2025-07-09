@@ -32,10 +32,6 @@ A comprehensive reservation system for Taman Kopses Ciseeng that allows users to
    - Import the SQL file from `database/tkc_database.sql`
    - Configure the database connection in `config/database.php` if needed
 
-3. **Default Admin Account**
-   - WhatsApp: 085886863808
-   - Password: password
-
 ## Directory Structure
 
 ```
