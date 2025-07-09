@@ -405,13 +405,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `whatsapp`, `email`, `password`, `role`, `created_at`, `updated_at`) VALUES
 (1, 'Admin', '08990559840', 'admin@tamankopsesciseeng.com', '$2y$10$njH3UfwfH7lbMgu6YNeu1eSIJmOVFWgxcZc4NJOrMV.CWuqsHq.xW', 'admin', '2025-05-28 07:29:52', '2025-05-29 01:45:08'),
-(2, 'Lukman Muludin', '089529204605', 'lukmanmauludin831@gmail.com', '$2y$10$njH3UfwfH7lbMgu6YNeu1eSIJmOVFWgxcZc4NJOrMV.CWuqsHq.xW', 'user', '2025-05-28 07:31:46', '2025-05-28 07:31:46'),
-(3, 'Jhon Doe', '082125074968', 'nandahamidah11@gmail.com', '$2y$10$6Jb.4dsVODA/h.FtGJ4zUuBq2MxDdfgprzqS3fPmYgGgQOuuXoEXW', 'user', '2025-05-28 17:17:00', '2025-05-28 17:17:00'),
-(4, 'Kaori', '085156477250', '', '$2y$10$3uG2efVk.Upb8HYBvmlalegl2xS.RJien/eHpXPKzUvJHWgosXufu', 'user', '2025-05-28 17:21:51', '2025-05-28 17:21:51'),
-(5, 'Zahra', '081212978836', '', '$2y$10$YhUMKdBkyAHtuaYx3plKa.DANiBJStGVzPvcZBqL1lbVow3PJrCd2', 'user', '2025-05-28 18:21:13', '2025-05-28 18:21:13'),
-(6, 'Adinda', '085711342304', '', '$2y$10$tbnuVaBC5ZSZ3DRlMk644.710zl2ej4LmnMYY71qomQCmK0WYs2aq', 'user', '2025-05-28 18:25:15', '2025-05-28 18:25:15');
 
---
 -- Indexes for dumped tables
 --
 
